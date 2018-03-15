@@ -37,7 +37,6 @@ namespace TechJobs.ViewModels
         public List<SelectListItem> PositionTypes { get; set; } = new List<SelectListItem>();
 
 
-        //Constructor
         public NewJobViewModel()
         {
 

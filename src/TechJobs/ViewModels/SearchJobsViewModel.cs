@@ -17,7 +17,7 @@ namespace TechJobs.ViewModels
         [Display(Name = "Keyword:")]
         public string Value { get; set; } = "";
 
-        // Constructor
+        
         public SearchJobsViewModel()
         {
             // Populate the list of all columns
